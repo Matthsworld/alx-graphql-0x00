@@ -4,7 +4,7 @@ This repository contains GraphQL queries and responses for fetching character de
 
 ## Files
 
-- `character-id-1.graphql`: Query to fetch the character with ID 1.
+- `episode-id-1.graphql`: Query to fetch the character with ID 1.
 - `character-id-1-output.json`: Response for the query `character-id-1.graphql`.
 - `character-id-2.graphql`: Query to fetch the character with ID 2.
 - `character-id-2-output.json`: Response for the query `character-id-2.graphql`.
@@ -12,6 +12,16 @@ This repository contains GraphQL queries and responses for fetching character de
 - `character-id-3-output.json`: Response for the query `character-id-3.graphql`.
 - `character-id-4.graphql`: Query to fetch the character with ID 4.
 - `character-id-4-output.json`: Response for the query `character-id-4.graphql`.
+
+- `episode-page-1.graphql`: Query to fetch characters from page 1.
+- `characters-page-1-output.json`: Response for the query `characters-page-1.graphql`.
+- `characters-page-2.graphql`: Query to fetch characters from page 2.
+- `characters-page-2-output.json`: Response for the query `characters-page-2.graphql`.
+- `characters-page-3.graphql`: Query to fetch characters from page 3.
+- `characters-page-3-output.json`: Response for the query `characters-page-3.graphql`.
+- `characters-page-4.graphql`: Query to fetch characters from page 4.
+- `characters-page-4-output.json`: Response for the query `characters-page-4.graphql`.
+
 
 ## Instructions
 
